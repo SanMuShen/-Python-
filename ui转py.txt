@@ -1,0 +1,5 @@
+pyuic5 -o main.py mainwindow.ui
+
+´ò°ü£ºhttps://www.cnblogs.com/darcymei/p/9397173.html
+      pyi-makespec -w main.py
+      pyinstaller -w main.spec
